@@ -1,2 +1,1 @@
-# FFv-setup.github.io
-startup website
+TinDog Starting Files
