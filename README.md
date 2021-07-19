@@ -1,2 +1,2 @@
-ffv Starting File
- frontend website made using html and css.
+Frontend website made using HTML and CSS.
+Reference of html and css is taken from Progate website .
